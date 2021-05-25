@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build",
+    "build": "slidev build --base /rust-tech-talk/ && mv dist docs",
     "export": "slidev export"
   },
   "dependencies": {
