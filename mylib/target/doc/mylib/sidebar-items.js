@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["swap_first_last_words","Swap the first and the last words of a given sentence"]]});
